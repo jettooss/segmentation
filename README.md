@@ -23,4 +23,5 @@ Technical problems.I was limited only by the free colab, the maximum prediction 
 ## Examples: 
   <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture1.png" >
   <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture.png" >
-  <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture2.png" >
+  <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture4.png" >
+   <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture3.png" >
