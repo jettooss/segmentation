@@ -20,3 +20,7 @@ QGIS (Quantum GIS) is a free and open-source geographic information system (GIS)
 Technical problems.I was limited only by the free colab, the maximum prediction is 60 %
 ## The project will still be finalized, many more have not been implemented.
  So far, only images from datasets are segmented
+Examples: 
+  <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture1.png" >
+  <img src="https://github.com/jettooss/segmentation/blob/main/examples/picture.png" >
+
